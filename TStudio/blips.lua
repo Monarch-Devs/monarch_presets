@@ -1,5 +1,5 @@
 ---@diagnostic disable: exp-in-action, unknown-symbol
----@description TStudio Blips Presets [https://turbosaif.tebex.io/]
+---@description TStudio Blips Presets [https://shop.tstudio3d.com/]
 
 ['alamo-island'] = {
     label = 'Alamo Island',
