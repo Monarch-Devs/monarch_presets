@@ -59,7 +59,6 @@
         'johanni_opium_hotel_e01_r12_milo_',
     },
 },
-
 ['opium_nights_hotel_2'] = {
     coords = vec3(-720.0649, -2263.3970, 40.20),
     size = vec3(110.0, 130.0, 4.0),
@@ -82,7 +81,6 @@
         'johanni_opium_hotel_e02_r12_milo_',
     },
 },
-
 ['opium_nights_hotel_3'] = {
     coords = vec3(-720.0649, -2263.3970, 49.00),
     size = vec3(110.0, 130.0, 4.0),
@@ -105,7 +103,6 @@
         'johanni_opium_hotel_e03_r12_milo_',
     },
 },
-
 ['opium_nights_hotel_4'] = {
     coords = vec3(-720.0649, -2263.3970, 58.00),
     size = vec3(110.0, 130.0, 4.0),
@@ -128,7 +125,6 @@
         'johanni_opium_hotel_e04_r12_milo_',
     },
 },
-
 ['opium_nights_hotel_5'] = {
     coords = vec3(-720.0649, -2263.3970, 66.70),
     size = vec3(110.0, 130.0, 4.0),
@@ -151,7 +147,6 @@
         'johanni_opium_hotel_e05_r12_milo_',
     },
 },
-
 ['opium_nights_hotel_6'] = {
     coords = vec3(-720.0649, -2263.3970, 75.60),
     size = vec3(110.0, 130.0, 4.0),
@@ -172,6 +167,34 @@
         'johanni_opium_hotel_e06_r10_milo_',
         'johanni_opium_hotel_e06_r11_milo_',
         'johanni_opium_hotel_e06_r12_milo_',
+    },
+},
+
+['pillbox_md_1'] = {
+    coords = vec3(334.7277, -582.3262, 60.00),
+    size = vec3(40.0, 80.0, 3.5),
+    rotation = 70.0,
+    debug = false,
+    ipl = {
+        'johanni_pillbox_e03_03_milo_'
+    },
+},
+['pillbox_md_2'] = {
+    coords = vec3(334.7277, -582.3262, 64.00),
+    size = vec3(40.0, 80.0, 3.5),
+    rotation = 70.0,
+    debug = false,
+    ipl = {
+        'johanni_pillbox_e03_01_milo_'
+    },
+},
+['pillbox_md_3'] = {
+    coords = vec3(334.7277, -582.3262, 68.00),
+    size = vec3(40.0, 80.0, 3.5),
+    rotation = 70.0,
+    debug = false,
+    ipl = {
+        'johanni_pillbox_e03_02_milo_'
     },
 },
 
