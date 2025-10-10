@@ -15,7 +15,51 @@
 },
 
 ---@description Entitysets
-[127746] = {},              -- Sandy City Hall
-[124418] = {},              -- Los Santos SAHP
-[123906] = {},              -- Highway SAHP
-[132866] = {},              -- Sandy Motel
+-- [MLO] Sandy City Hall
+[127746] = {
+    ['elevator'] = {
+        name = 'static_elevator',
+        enable = true,
+    },
+    ['conference_chairs'] = {
+        name = 'conference_chairs',
+        enable = true,
+    },
+    ['conference_table'] = {
+        name = 'conference_meeting_table',
+        enable = true,
+    },
+    ['voting'] = {
+        name = 'eventroom_voting',
+        enable = true,
+    },
+},
+-- [MLO] Los Santos SAHP
+[124418] = {
+    ['chairs'] = {
+        name = 'onlychairs',
+        enable = false,
+    },
+    ['chairs_tables'] = {
+        name = 'chairsandtables',
+        enable = true,
+    },
+},
+-- [MLO] Highway SAHP
+[123906] = {
+    ['chairs'] = {
+        name = 'onlychairs',
+        enable = false,
+    },
+    ['chairs_tables'] = {
+        name = 'chairsandtables',
+        enable = true,
+    },
+},
+-- [MLO] Sandy Motel
+[132866] = {
+    ['poker'] = {
+        name = 'poker',
+        enable = true,
+    },
+},
