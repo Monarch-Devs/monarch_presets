@@ -1,5 +1,5 @@
 ---@diagnostic disable: exp-in-action, unknown-symbol
----@description Prompt Blips Presets [https://fivem.prompt-mods.com/]
+---@description Prompt Blips Presets [https://store.prompt-mods.com/]
 
 ['abandoned-theatre'] = {
     label = 'Abandoned Theatre',

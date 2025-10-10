@@ -1,5 +1,5 @@
 ---@diagnostic disable: exp-in-action, unknown-symbol
----@description Prompt Elevators Presets [https://fivem.prompt-mods.com/]
+---@description Prompt Elevators Presets [https://store.prompt-mods.com/]
 
 ['building-1'] = {
     label = 'Building 1',
