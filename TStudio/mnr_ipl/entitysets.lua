@@ -1,6 +1,18 @@
 ---@diagnostic disable: exp-in-action, unknown-symbol
 ---@description TStudio Entitysets Presets [https://shop.tstudio3d.com/]
 
+-- [MLO] Aldente's Restaurant
+[162562] = {
+    ['casino_yes'] = {
+        name = 'r8_casino_yes',
+        enable = true,
+    },
+    ['casino_no'] = {
+        name = 'r8_casino_no',
+        enable = false,
+    },
+},
+
 -- [MLO] Fleeca
 [188418] = {
     ['vault'] = {
