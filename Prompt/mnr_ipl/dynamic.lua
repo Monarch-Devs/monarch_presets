@@ -2,8 +2,8 @@
 ---@description Prompt Studio Dynamic IPLs Presets [https://store.prompt-mods.com/]
 
 ['sandy_motel'] = {
-    coords = vec3(1609.9529, 3773.4612, 37.50),
-    size = vec3(35.0, 90.0, 7.0),
+    coords = vec3(1600.9035, 3766.7846, 37.50),
+    size = vec3(35.0, 61.0, 7.0),
     rotation = 127.5,
     debug = false,
     ipl = {
@@ -39,5 +39,23 @@
         'prompt_sandy_motel_room_30',
         'prompt_sandy_motel_room_31',
         'prompt_sandy_motel_room_32',
+    },
+},
+['sandy_motel_fake_1'] = {
+    coords = vec3(1652.7705, 3808.2048, 37.50),
+    size = vec3(80.0, 72.0, 7.0),
+    rotation = 127.5,
+    debug = false,
+    ipl = {
+        'prompt_sandy_motel_fakedoors',
+    },
+},
+['sandy_motel_fake_2'] = {
+    coords = vec3(1585.1674, 3788.9021, 37.50),
+    size = vec3(20.0, 60.0, 7.0),
+    rotation = 127.5,
+    debug = false,
+    ipl = {
+        'prompt_sandy_motel_fakedoors',
     },
 },
