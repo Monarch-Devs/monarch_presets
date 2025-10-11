@@ -15,7 +15,6 @@
     ['wedding_chairs'] = { ipl = 'p_prompt_sandy_cityhall_wedding_chairs', default = false },
     ['wedding_spotlight'] = { ipl = 'p_prompt_sandy_cityhall_wedding_spotlight', default = false },
     ['wedding_venue'] = { ipl = 'p_prompt_sandy_cityhall_wedding_venue', default = false },
-
 },
 ['sandy_market'] = {
     ['arcade'] = { ipl = 'box55_s_market_stalls_arcade', default = true },
