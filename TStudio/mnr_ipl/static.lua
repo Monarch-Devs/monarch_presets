@@ -1,6 +1,12 @@
 ---@diagnostic disable: exp-in-action, unknown-symbol
 ---@description TStudio Static IPLs Presets [https://shop.tstudio3d.com/]
 
+['aldentes_restaurant'] = {
+    ['interior'] = {
+        ipl = 'johanni_aldentes_milo_',
+        default = true,
+    },
+},
 ['fleeca'] = {
     ['fleeca_1'] = {
         ipl = 'uniqx_flecca_l1_milo_',
