@@ -9,8 +9,8 @@ Store Link: https://shop.tstudio3d.com/
 
 | Product                           | Blips | Elevators | IPLs  | Sit Anywhere  |
 |-----------------------------------|-------|-----------|-------|---------------|
-| Alamo Island                      | ✅    | ❓       |       |               |
-| Al Dente Restaurant & Compound    | ✅    | ✅       |       |               |
+| Alamo Island                      | ✅    | ❓       | ❓    | ✅           |
+| Al Dente Restaurant & Compound    | ✅    | ✅       | ✅    |              |
 | Ammu Nation                       | ❌    | ❓       |       |               |
 | Beach Party Pier                  | ✅    | ❓       |       |               |
 | Bennys Docks                      | ✅    | ❓       |       |               |
@@ -21,31 +21,31 @@ Store Link: https://shop.tstudio3d.com/
 | Cali Estate                       | ✅    | ❓       |       |               |
 | Canyon Bridge                     | ✅    | ❓       |       |               |
 | Car Rental Office                 | ✅    | ❓       |       |               |
-| Cayo Perico Bridge                | ✅    | ❓       |       |               |
+| Cayo Perico Bridge                | ✅    | ❓       | ❓    | ❓           |
 | Davis Gang Hood                   | ✅    | ❓       |       |               |
-| Fleeca Bank                       | ✅    | ❓       |       |               |
+| Fleeca Bank                       | ✅    | ❓       | ✅    |               |
 | Hill Mansion                      | ✅    | ❓       |       |               |
 | Impound                           | ✅    | ❓       |       |               |
 | Jurassic Jackpot                  | ✅    | ✅       |       |               |
 | Kebab King Diner                  | ✅    | ❓       |       |               |
 | Laundromat                        | ✅    | ❓       |       |               |
-| Leapfrog Café                     | ✅    |           |       |               |
+| Leapfrog Café                     | ✅    | ❓       |       |               |
 | Legion Square Garage              | ✅    | ❓       |       |               |
 | Legion Square Park                | ✅    | ❓       |       |               |
-| LS International Airport          | ✅    |           |       |               |
+| LS International Airport          | ✅    | ❓       |       |               |
 | LSIA Skatepark                    | ✅    | ❓       |       |               |
 | LSI Square                        | ✅    | ❓       |       |               |
 | Medical Center Vespucci           | ✅    | ✅       |       |               |
 | Mission Row Park                  | ❌    | ❓       |       |               |
-| Opium Nights Hotel                | ✅    | ✅       |       |               |
+| Opium Nights Hotel                | ✅    | ✅       | ✅    |               |
 | Paleto Cardealer V2               | ✅    | ❓       |       |               |
 | PDM - Vespucci                    | ✅    | ❓       |       |               |
 | Pearls Resort                     | ❌    | ❓       |       |               |
-| Pier 76 Car Club                  | ✅    |           |       |               |
-| Pillbox Medical Center            | ✅    | ✅       |       |               |
+| Pier 76 Car Club                  | ✅    | ☑️       |       |               |
+| Pillbox Medical Center            | ✅    | ✅       | ✅    |               |
 | Playboy Mansion                   | ✅    | ❓       |       |               |
 | PVP Arena                         | ✅    | ❓       |       |               |
-| Red's Tunershop                   | ✅    |           |       |               |
+| Red's Tunershop                   | ✅    | ☑️       |       |               |
 | Rockford Church                   | ✅    | ❓       |       |               |
 | Roggers Hood                      | ✅    | ❓       |       |               |
 | Smokey's Weed Shop                | ✅    | ❓       |       |               |
@@ -54,7 +54,7 @@ Store Link: https://shop.tstudio3d.com/
 | Taxi Downtown Cab & Co.           | ✅    | ❓       |       |               |
 | Tropical Heights                  | ✅    | ✅       |       |               |
 | Vespucci Gang Hood                | ✅    | ❓       |       |               |
-| VHotel Estate                     | ✅    |           |       |               |
+| VHotel Estate                     | ✅    | ❓       | ✅   |               |
 | Vinewood Lake Villa               | ✅    | ❓       |       |               |
 | Vineyard Mansion                  | ✅    | ❓       |       |               |
 | Yakuza Mansion                    | ✅    | ❓       |       |               |
