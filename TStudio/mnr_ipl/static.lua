@@ -7,6 +7,7 @@
         default = true,
     },
 },
+
 ['fleeca'] = {
     ['fleeca_1'] = {
         ipl = 'uniqx_flecca_l1_milo_',
@@ -33,6 +34,7 @@
         default = true,
     },
 },
+
 ['legion_square'] = {
     ['default'] = {
         ipl = 'tstudio_legionsquare_ext_amphi_default',
@@ -51,6 +53,7 @@
         default = true,
     },
 },
+
 ['pearls_resort'] = {
     ['restaurant'] = {
         ipl = 'tstudio_jhn_resort_int_pearls_milo_',
@@ -109,6 +112,7 @@
         default = true,
     },
 },
+
 ['vhotel_estate'] = {
     ['interior'] = {
         ipl = 'johanni_vhotel_milo_',
