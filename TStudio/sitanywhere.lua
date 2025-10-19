@@ -62,7 +62,7 @@
 	},
 },
 
----@description Al Dente's
+---@description Al Dente's Restaurant [NETWORK COMPATIBLE]
 [`johanni_aldentes_asset_barstool`] = {
 	maxSeats = 1,
 	action = 'bench',
@@ -105,7 +105,7 @@
 		[1] = vec4(0.0, 0.1, 0.5, 180.0),
 	},
 },
-[-61947709] = {
+[`johanni_aldentes_asset_seating01`] = {
 	maxSeats = 1,
 	action = 'bench',
 	seats = {
@@ -119,12 +119,12 @@
 		[1] = vec4(0.15, 0.10, 0.1, 270.0),
 	},
 },
-[-694881216] = {
+[`johanni_aldentes_asset_seating02`] = {
 	maxSeats = 2,
 	action = 'bench',
 	seats = {
-		[1] = vec4(0.4, 0.0, 0.5, 180.0),
-		[2] = vec4(-0.4, 0.0, 0.5, 180.0),
+		[1] = vec4(0.4, 0.0, 0.05, 180.0),
+		[2] = vec4(-0.4, 0.0, 0.05, 180.0),
 	},
 },
 [`johanni_aldentes_asset_seating02_ext`] = {
@@ -135,7 +135,6 @@
 		[2] = vec4(-0.4, 0.2, 0.1, 0.0),
 	},
 },
-
 ---@description Kebab King Diner
 [-1281587804] = {
 	maxSeats = 1,
