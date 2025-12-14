@@ -15,11 +15,11 @@
 > - **If you're a server owner** and you want presets for maps of a creator ask the creator to contact me on [Discord](https://discord.gg/WKtk65yBC6) to organize us
 
 ## Presets for the following scripts
-- [mnr_blips](https://github.com/Monarch-Development/mnr_blips)
-- [mnr_elevators](https://github.com/Monarch-Development/mnr_elevators)
-- [mnr_ipl](https://github.com/Monarch-Development/mnr_ipl)
-- [mnr_sitanywhere](https://github.com/Monarch-Development/mnr_sitanywhere)
+- [mnr_blips](https://github.com/Monarch-Devs/mnr_blips)
+- [mnr_elevators](https://github.com/Monarch-Devs/mnr_elevators)
+- [mnr_ipl](https://github.com/Monarch-Devs/mnr_ipl)
+- [mnr_sitanywhere](https://github.com/Monarch-Devs/mnr_sitanywhere)
 
 ## Links
 - [Discord](https://discord.gg/WKtk65yBC6)
-- [Docs](https://monarch-development.pages.dev/docs/monarch-resources/presets)
+- [Docs](https://monarch-devs.com/docs/monarch-resources/presets)
