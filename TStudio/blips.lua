@@ -255,6 +255,15 @@
     scale = 0.8,
 },
 
+-- MRPD
+{
+    label = 'MRPD',
+    coords = vec3(429.84, -980.93, 31.00),
+    sprite = 137,
+    color = 38,
+    scale = 0.8,
+}
+
 -- Opium Nights Hotel
 {
     label = 'Opium Nights Hotel',
