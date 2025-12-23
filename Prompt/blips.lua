@@ -1,7 +1,8 @@
 ---@diagnostic disable: exp-in-action, unknown-symbol
 ---@description Prompt Blips Presets [https://store.prompt-mods.com/]
 
-['abandoned-theatre'] = {
+-- Abandoned Theatre
+{
     label = 'Abandoned Theatre',
     coords = vec3(460.65, -1455.20, 29.29),
     sprite = 362,
@@ -9,18 +10,8 @@
     scale = 0.8,
 },
 
-['alamo-sea-bridge'] = {
-    label = 'Alamo Sea Bridge',
-    points = {
-        vec3(1859.94, 3950.71, 33.06),
-        vec3(1904.80, 4584.91, 37.58),
-    },
-    sprite = 770,
-    color = 5,
-    scale = 0.8,
-},
-
-['blaine-county-city-hall'] = {
+-- Blaine County City Hall
+{
     label = 'Blaine County City Hall',
     coords = vec3(343.50, 6626.28, 28.62),
     sprite = 419,
@@ -28,23 +19,8 @@
     scale = 0.8,
 },
 
-['boat-house'] = {
-    label = 'Boat House',
-    coords = vec3(1531.35, 3776.84, 34.51),
-    sprite = 410,
-    color = 26,
-    scale = 0.8,
-},
-
-['boats-rental'] = {
-    label = 'Boats Rental',
-    coords = vec3(1411.73, 3804.32, 32.42),
-    sprite = 371,
-    color = 2,
-    scale = 0.8,
-},
-
-['bolingbroke-prison'] = {
+-- Bolingbroke Prison
+{
     label = 'Bolingbroke Prison',
     coords = vec3(1849.44, 2608.71, 45.59),
     sprite = 188,
@@ -52,23 +28,8 @@
     scale = 0.8,
 },
 
-['building-1'] = {
-    label = 'Opened City - Building 1',
-    coords = vec3(57.79, -1002.71, 29.40),
-    sprite = 475,
-    color = 17,
-    scale = 0.8,
-},
-
-['building-2'] = {
-    label = 'Opened City - Building 2',
-    coords = vec3(188.16, -1078.71, 29.30),
-    sprite = 475,
-    color = 17,
-    scale = 0.8,
-},
-
-['bus-station'] = {
+-- Bus Station
+{
     label = 'Bus Station',
     coords = vec3(434.78, -645.61, 28.73),
     sprite = 513,
@@ -76,7 +37,8 @@
     scale = 0.8,
 },
 
-['dot-repairs'] = {
+-- DOT Repairs | Truck you Repairs
+{
     label = 'DOT Repairs',
     points = {
         vec3(967.58, -1022.57, 40.85),
@@ -88,7 +50,8 @@
     scale = 0.8,
 },
 
-['dynasty-8'] = {
+-- Dynasty 8
+{
     label = 'Dynasty 8',
     coords = vec3(-838.02, -332.33, 38.68),
     sprite = 475,
@@ -96,7 +59,8 @@
     scale = 0.8,
 },
 
-['expensive-garage'] = {
+-- Expensive Garage
+{
     label = 'Expensive Garage',
     coords = vec3(-776.96, -371.08, 45.77),
     sprite = 523,
@@ -104,7 +68,8 @@
     scale = 0.8,
 },
 
-['firetowers'] = {
+-- Firetowers
+{
     label = 'Firetower',
     points = {
         vec3(-2666.23, 1274.22, 144.85),
@@ -126,7 +91,8 @@
     scale = 0.8,
 },
 
-['gang-hideout-davis'] = {
+-- Gang Hideout | Davis
+{
     label = 'Gang Hideout | Davis',
     coords = vec3(-199.29, -1605.36, 34.59),
     sprite = 86,
@@ -134,7 +100,8 @@
     scale = 0.8,
 },
 
-['gang-hideout-el-burro'] = {
+-- Gang Hideout | El Burro
+{
     label = 'Gang Hideout | El Burro',
     coords = vec3(1436.44, -1494.94, 63.22),
     sprite = 78,
@@ -142,7 +109,8 @@
     scale = 0.8,
 },
 
-['gang-hideout-groove'] = {
+-- Gang Hideout | Groove
+{
     label = 'Gang Hideout | Groove',
     coords = vec3(111.03, -1955.73, 20.75),
     sprite = 106,
@@ -150,7 +118,8 @@
     scale = 0.8,
 },
 
-['japanese-restaurant'] = {
+-- Japanese Restaurant
+{
     label = 'Japanese Restaurant',
     coords = vec3(-169.57, 279.43, 93.62),
     sprite = 93,
@@ -158,7 +127,8 @@
     scale = 0.8,
 },
 
-['mosley-dealership'] = {
+-- Mosley Dealership
+{
     label = 'Mosley Dealership',
     coords = vec3(-42.01, -1676.44, 29.42),
     sprite = 225,
@@ -166,7 +136,8 @@
     scale = 0.8,
 },
 
-['motorcicle-paradise'] = {
+-- Motorcicle Paradise
+{
     label = 'Motorcicle Paradise',
     coords = vec3(286.64, -1146.88, 29.29),
     sprite = 226,
@@ -174,7 +145,8 @@
     scale = 0.8,
 },
 
-['noose'] = {
+-- NOOSE
+{
     label = 'NOOSE',
     coords = vec3(2484.96, -383.89, 93.74),
     sprite = 60,
@@ -182,7 +154,8 @@
     scale = 0.8,
 },
 
-['paleto-bay-fire-department'] = {
+-- Paleto Bay Fire Department
+{
     label = 'Paleto Bay Fire Department',
     coords = vec3(-382.08, 6121.04, 31.48),
     sprite = 436,
@@ -190,7 +163,8 @@
     scale = 0.8,
 },
 
-['paleto-hunting-store'] = {
+-- Paleto Hunting Store
+{
     label = 'Paleto Hunting Store',
     coords = vec3(-679.77, 5833.80, 17.33),
     sprite = 141,
@@ -198,7 +172,8 @@
     scale = 0.8,
 },
 
-['pillbox-fire-department'] = {
+-- Pillbox Fire Department
+{
     label = 'Pillbox Fire Department',
     coords = vec3(319.32, -686.13, 29.48),
     sprite = 436,
@@ -206,7 +181,24 @@
     scale = 0.8,
 },
 
-['reds-auto-parts'] = {
+-- Project | Opened City
+{
+    label = 'Opened City - Building 1',
+    coords = vec3(57.79, -1002.71, 29.40),
+    sprite = 475,
+    color = 17,
+    scale = 0.8,
+},
+{
+    label = 'Opened City - Building 2',
+    coords = vec3(188.16, -1078.71, 29.30),
+    sprite = 475,
+    color = 17,
+    scale = 0.8,
+},
+
+-- Red's Auto Parts
+{
     label = 'Red\'s Auto Parts',
     coords = vec3(-511.29, -1736.95, 19.22),
     sprite = 488,
@@ -214,7 +206,8 @@
     scale = 0.8,
 },
 
-['repair-shop'] = {
+-- Repair Shop
+{
     label = 'Repair Shop',
     points = {
         vec3(535.66, -180.45, 54.35),
@@ -225,7 +218,8 @@
     scale = 0.8,
 },
 
-['rockford-dealership'] = {
+-- Rockford Dealership
+{
     label = 'Rockford Dealership',
     coords = vec3(-324.84, -255.80, 34.39),
     sprite = 523,
@@ -233,7 +227,8 @@
     scale = 0.8,
 },
 
-['rockford-fire-department'] = {
+-- Rockford Fire Department
+{
     label = 'Rockford Fire Department',
     coords = vec3(-662.12, -73.92, 38.55),
     sprite = 436,
@@ -241,7 +236,8 @@
     scale = 0.8,
 },
 
-['rockford-police-department'] = {
+-- Rockford Police Department
+{
     label = 'Rockford Police Department',
     coords = vec3(-557.58, -141.39, 38.42),
     sprite = 60,
@@ -249,7 +245,8 @@
     scale = 0.8,
 },
 
-['sandy-car-dealership'] = {
+-- Sandy Car Dealership
+{
     label = 'Sandy Car Dealership',
     coords = vec3(1901.42, 3731.25, 32.54),
     sprite = 326,
@@ -257,7 +254,8 @@
     scale = 0.8,
 },
 
-['sandy-fire-department'] = {
+-- Sandy Fire Department
+{
     label = 'Sandy Fire Department',
     coords = vec3(1685.33, 3574.05, 35.59),
     sprite = 436,
@@ -265,7 +263,8 @@
     scale = 0.8,
 },
 
-['sandy-gas-station'] = {
+-- Sandy Gas Station
+{
     label = 'Sandy Gas Station',
     coords = vec3(2001.99, 3778.64, 32.18),
     sprite = 361,
@@ -273,7 +272,8 @@
     scale = 0.8,
 },
 
-['sandy-hospital'] = {
+-- Sandy Hospital
+{
     label = 'Sandy Hospital',
     coords = vec3(1751.16, 3624.17, 34.98),
     sprite = 61,
@@ -281,7 +281,17 @@
     scale = 0.8,
 },
 
-['sandy-houses-part-1'] = {
+-- Sandy Lost MC
+{
+    label = 'Sandy Lost MC',
+    coords = vec3(105.50, 3690.17, 39.75),
+    sprite = 429,
+    color = 0,
+    scale = 0.8,
+},
+
+-- Sandy Shores Houses | Part 1
+{
     label = 'House',
     points = {
         vec3(1357.14, 3590.68, 34.86),
@@ -308,23 +318,8 @@
     scale = 0.8,
 },
 
-['sandy-lost-mc'] = {
-    label = 'Sandy Lost MC',
-    coords = vec3(105.50, 3690.17, 39.75),
-    sprite = 429,
-    color = 0,
-    scale = 0.8,
-},
-
-['sandy-marina-lifeguard'] = {
-    label = 'Sandy Marina Lifeguard',
-    coords = vec3(1694.82, 3907.34, 34.64),
-    sprite = 356,
-    color = 17,
-    scale = 0.8,
-},
-
-['sandy-shores-airport'] = {
+-- Sandy Shores Airport
+{
     label = 'Sandy Shores Airport',
     coords = vec3(1693.62, 3301.01, 41.58),
     sprite = 307,
@@ -332,7 +327,43 @@
     scale = 0.8,
 },
 
-['sandy-shores-cityhall'] = {
+-- Sandy Shores Beaches
+{
+    label = 'Alamo Sea Bridge',
+    points = {
+        vec3(1859.94, 3950.71, 33.06),
+        vec3(1904.80, 4584.91, 37.58),
+    },
+    sprite = 770,
+    color = 5,
+    scale = 0.8,
+},
+{
+    label = 'Boats Rental',
+    coords = vec3(1411.73, 3804.32, 32.42),
+    sprite = 371,
+    color = 2,
+    scale = 0.8,
+},
+{
+    label = 'Marina Lifeguard',
+    coords = vec3(1694.82, 3907.34, 34.64),
+    sprite = 356,
+    color = 17,
+    scale = 0.8,
+},
+
+-- Sandy Shores Boat House
+{
+    label = 'Boat House',
+    coords = vec3(1531.35, 3776.84, 34.51),
+    sprite = 410,
+    color = 26,
+    scale = 0.8,
+},
+
+-- Sandy Shores City Hall
+{
     label = 'Sandy Shores City Hall',
     coords = vec3(1746.63, 3799.39, 35.46),
     sprite = 419,
@@ -340,7 +371,8 @@
     scale = 0.8,
 },
 
-['sandy-shores-sheriff-station'] = {
+-- Sandy Shores Sheriff Station
+{
     label = 'Sandy Shores Sheriff Station',
     coords = vec3(1831.94, 3661.97, 33.91),
     sprite = 60,
@@ -348,7 +380,8 @@
     scale = 0.8,
 },
 
-['sandy-train-station'] = {
+-- Sandy Train Station
+{
     label = 'Sandy Train Station',
     coords = vec3(1912.21, 3574.08, 38.82),
     sprite = 795,
@@ -356,7 +389,8 @@
     scale = 0.8,
 },
 
-['secret-undergroud-marijuana'] = {
+--Secret Underground Marijuana Plantation
+{
     label = 'Secret Underground Marijuana',
     coords = vec3(-184.65, -1701.72, 32.75),
     sprite = 469,
@@ -364,7 +398,8 @@
     scale = 0.8,
 },
 
-['vespucci-city-hall'] = {
+-- Vespucci City Hall
+{
     label = 'Vespucci City Hall',
     coords = vec3(-1282.79, -564.26, 31.71),
     sprite = 419,
@@ -372,7 +407,8 @@
     scale = 0.8,
 },
 
-['vespucci-fire-department'] = {
+-- Vespucci Fire Department
+{
     label = 'Vespucci Fire Department',
     coords = vec3(-1055.37, -1396.30, 5.06),
     sprite = 436,
@@ -380,7 +416,8 @@
     scale = 0.8,
 },
 
-['watch-store'] = {
+-- Watch Store
+{
     label = 'Watch Store',
     coords = vec3(-648.88, -276.97, 35.68),
     sprite = 466,
@@ -388,7 +425,8 @@
     scale = 0.8,
 },
 
-['wiwang-pc-club'] = {
+-- Wiwang PC Club
+{
     label = 'Wiwang PC Club',
     coords = vec3(-829.28, -689.90, 28.10),
     sprite = 521,
