@@ -156,7 +156,7 @@
         [1] = {
             title = 'Floor 05',
             description = 'Helipad',
-            debug = true,
+            debug = false,
             zones = {
                 [1] = { coords = vec4(477.9102, -984.0969, 45.80, 90.00), size = vec3(3.0, 2.4, 3.0) },
             },
@@ -167,7 +167,7 @@
         [2] = {
             title = 'Floor 04',
             description = 'S.W.A.T.',
-            debug = true,
+            debug = false,
             zones = {
                 [2] = { coords = vec4(436.8199, -995.8090, 40.00, 90.00), size = vec3(3.0, 2.4, 3.0) },
             },
@@ -178,7 +178,7 @@
         [3] = {
             title = 'Floor 03',
             description = 'MRPD Staff',
-            debug = true,
+            debug = false,
             zones = {
                 [1] = { coords = vec4(477.9102, -984.0969, 35.60, 90.00), size = vec3(3.0, 2.4, 3.0) },
                 [2] = { coords = vec4(436.8199, -995.8090, 35.60, 90.00), size = vec3(3.0, 2.4, 3.0) },
@@ -190,7 +190,7 @@
         [4] = {
             title = 'Floor 02',
             description = 'Public area',
-            debug = true,
+            debug = false,
             zones = {
                 [1] = { coords = vec4(477.9102, -984.0969, 31.20, 90.00), size = vec3(3.0, 2.4, 3.0) },
                 [2] = { coords = vec4(436.1694, -994.8231, 31.20, 90.00), size = vec3(3.0, 2.4, 3.0) },
@@ -202,7 +202,7 @@
         [5] = {
             title = 'Floor 01',
             description = 'Basement',
-            debug = true,
+            debug = false,
             zones = {
                 [1] = { coords = vec4(477.9102, -984.0969, 22.40, 90.00), size = vec3(3.0, 2.4, 3.0) },
             },
