@@ -170,7 +170,7 @@
 	},
 },
 
---- MRPD
+--- MRPD [NETWORK COMPATIBLE]
 [`tstudio_mrpd_asset_chair01`] = {
 	maxSeats = 1,
 	action = 'bench',
