@@ -62,7 +62,7 @@
 	},
 },
 
----@description Al Dente's Restaurant [NETWORK COMPATIBLE]
+--- Al Dente's Restaurant [NETWORK COMPATIBLE]
 [`johanni_aldentes_asset_barstool`] = {
 	maxSeats = 1,
 	action = 'bench',
@@ -135,7 +135,7 @@
 		[2] = vec4(-0.4, 0.2, 0.1, 0.0),
 	},
 },
----@description Kebab King Diner
+--- Kebab King Diner
 [-1281587804] = {
 	maxSeats = 1,
 	action = 'bench',
@@ -144,7 +144,7 @@
 	},
 },
 
----@description Legion Square
+--- Legion Square
 [`tstudio_legionsquare_asset_bench01`] = {
 	maxSeats = 3,
 	action = 'bench',
@@ -169,7 +169,152 @@
 	},
 },
 
----@description Tropical Heights
+--- MRPD
+[`tstudio_mrpd_asset_chair01`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.0, 0.0, 0.5, 90.0),
+	},
+},
+[`tstudio_mrpd_asset_chair01_swat`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.0, 0.0, 0.5, 90.0),
+	},
+},
+[`tstudio_mrpd_asset_chair02`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(-0.1, 0.0, 0.5, 90.0),
+	},
+},
+[`tstudio_mrpd_asset_chair03`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.05, 0.0, 0.5, 90.0),
+	},
+},
+[`tstudio_mrpd_asset_chair03_swat`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.05, 0.0, 0.5, 90.0),
+	},
+},
+[`tstudio_mrpd_asset_chair04`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.0, 0.0, 0.5, 90.0),
+	},
+},
+[`tstudio_mrpd_asset_chair04_swat`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.0, 0.0, 0.5, 90.0),
+	},
+},
+[`tstudio_mrpd_asset_chair05`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.0, 0.0, 0.5, 90.0),
+	},
+},
+[`tstudio_mrpd_asset_chair06`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.0, 0.0, 0.5, 90.0),
+	},
+},
+[`tstudio_mrpd_asset_ext_bench01`] = {
+	maxSeats = 5,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.0, 0.5, 0.1, 0.0),
+		[2] = vec4(-0.7, 0.5, 0.1, 0.0),
+		[3] = vec4(-1.4, 0.5, 0.1, 0.0),
+		[4] = vec4(0.7, 0.5, 0.1, 0.0),
+		[5] = vec4(1.4, 0.5, 0.1, 0.0),
+	},
+},
+[`tstudio_mrpd_asset_prison_chairset_seat`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.1, 0.0, 0.1, 90.0),
+	},
+},
+[`tstudio_mrpd_asset_seats01`] = {
+	maxSeats = 8,
+	action = 'bench',
+	seats = {
+		[1] = vec4(-0.40,  1.10, 0.50,  30.0),
+		[2] = vec4(-1.06,  0.49, 0.50,  75.0),
+		[3] = vec4(-1.10, -0.40, 0.50, 120.0),
+		[4] = vec4(-0.49, -1.06, 0.50, 165.0),
+		[5] = vec4( 0.40, -1.10, 0.50, 210.0),
+		[6] = vec4( 1.06, -0.49, 0.50, 255.0),
+		[7] = vec4( 1.10,  0.40, 0.50, 300.0),
+		[8] = vec4( 0.49,  1.06, 0.50, 345.0),
+	},
+},
+[`tstudio_mrpd_asset_seats02`] = {
+	maxSeats = 3,
+	action = 'bench',
+	seats = {
+		[1] = vec4(-0.1, 0.0, 0.5, 90.0),
+		[2] = vec4(-0.1, -0.9, 0.5, 90.0),
+		[3] = vec4(-0.1, 0.9, 0.5, 90.0),
+	},
+},
+[`tstudio_mrpd_asset_seats02_swat`] = {
+	maxSeats = 3,
+	action = 'bench',
+	seats = {
+		[1] = vec4(-0.1, 0.0, 0.5, 90.0),
+		[2] = vec4(-0.1, -0.9, 0.5, 90.0),
+		[3] = vec4(-0.1, 0.9, 0.5, 90.0),
+	},
+},
+[`tstudio_mrpd_asset_seats03`] = {
+	maxSeats = 3,
+	action = 'bench',
+	seats = {
+		[1] = vec4(-0.1, 0.0, 0.5, 90.0),
+		[2] = vec4(-0.1, -0.9, 0.5, 90.0),
+		[3] = vec4(-0.1, 0.9, 0.5, 90.0),
+	},
+},
+[`tstudio_mrpd_asset_stool01`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.1, 0.0, 0.7, 90.0),
+	},
+},
+[`tstudio_mrpd_asset_stool02`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.1, 0.0, 0.9, 90.0),
+	},
+},
+[`tstudio_mrpd_asset_stool03`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.1, 0.0, 0.5, 90.0),
+	},
+},
+
+--- Tropical Heights
 [`johanni_skybar_asset_barstool01`] = {
 	maxSeats = 1,
 	action = 'bench',
