@@ -315,6 +315,50 @@
 	},
 },
 
+--- Pillbox Medical Center [NETWORK COMPATIBLE]
+[`johanni_pillbox_md_asset_armchair01`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.0, 0.0, 0.5, 90.0),
+	},
+},
+[`johanni_pillbox_md_asset_armchair02`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.0, 0.0, 0.5, 90.0),
+	},
+},
+[`johanni_pillbox_md_asset_chair01`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.0, 0.0, 0.55, 180.0),
+	},
+},
+[`johanni_pillbox_md_asset_chair02`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(0.0, 0.0, 0.0, 180.0),
+	},
+},
+[`johanni_pillbox_md_asset_chair03`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(-0.2, 0.0, 0.50, 270.0),
+	},
+},
+[`johanni_pillbox_md_asset_chair04`] = {
+	maxSeats = 1,
+	action = 'bench',
+	seats = {
+		[1] = vec4(-0.2, 0.0, 0.50, 270.0),
+	},
+},
+
 --- Tropical Heights
 [`johanni_skybar_asset_barstool01`] = {
 	maxSeats = 1,
