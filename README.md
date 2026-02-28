@@ -1,11 +1,10 @@
 ## Supported Creators
 > The supported creators present in these presets have been verified by IlMelons (Monarch Development) without any economic interest but based on the behavior that these creators have had and have with me, we hope these presets improve and speed up the installation experience of the products and save you money on the script side
 
-- [Prompt Mods](https://fivem.prompt-mods.com/)
 - [TStudio](https://shop.tstudio3d.com/)
-- [Ambitioneers](https://ambitioneers.tebex.io/)
+- [Prompt Mods](https://store.prompt-mods.com/)
 - [K4mbi Maps](https://k4mb1maps.com/)
-- [NTeam](https://nteamdev.tebex.io/)
+- [Ambitioneers](https://ambitioneers.tebex.io/)
 - [Mr. Hunter](https://mrhunter.tebex.io/)
 - [Ajaxon](https://ajaxon.tebex.io/)
 - [Fiv3Devs](https://fiv3devs.tebex.io/)
@@ -22,4 +21,4 @@
 
 ## Links
 - [Discord](https://discord.gg/WKtk65yBC6)
-- [Docs](https://monarch-devs.com/docs/monarch-resources/presets)
+- [Docs](https://monarch-devs.com/docs/presets)
